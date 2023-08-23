@@ -20,3 +20,10 @@ const show = ref(true);
     Destroy
   </button>
 </template>
+
+<style scoped>
+button {
+  margin-top: 10px;
+  background: grey;
+}
+</style>

@@ -20,7 +20,7 @@ onUnmounted(() => {
 
 <style scoped>
 .wrapper {
-  border: solid 1px black;
+  border: solid 1px var(--border-color);
   padding: 5px;
 }
 </style>
